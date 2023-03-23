@@ -1,0 +1,46 @@
+body {
+    margin: auto;
+    width: 100%;
+    border: none;
+    padding: 10px;
+    background-color: white;
+    font-family: Verdana;
+}
+
+
+header {
+   padding: 10px;
+   align-self: center;
+}
+
+
+.images_1 img{
+    align-items: center;
+    width: 500px;
+    height: 312px;
+    padding: 3px;
+    margin: 0px 10px 10px 0;  
+}
+
+
+.images_2 img{
+    align-items:end;
+    width: 231px;
+    height: 312px;
+    padding: 3px;
+    margin: 0px 10px 10px 0;  
+}
+
+
+iframe{
+    border-radius: 12px;
+    border: 0px;
+    width: 231px;
+    height: 312px;
+
+}
+
+
+li{
+    list-style-type: none;
+}
